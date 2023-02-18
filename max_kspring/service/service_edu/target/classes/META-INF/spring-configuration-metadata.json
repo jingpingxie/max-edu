@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "personinfo",
+      "type": "com.matrix.eduservice.properties.PersonInfoProperties",
+      "sourceType": "com.matrix.eduservice.properties.PersonInfoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "personinfo.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.matrix.eduservice.properties.PersonInfoProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "personinfo.name",
+      "type": "java.lang.String",
+      "sourceType": "com.matrix.eduservice.properties.PersonInfoProperties"
+    }
+  ],
+  "hints": []
+}
